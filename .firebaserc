@@ -1,0 +1,17 @@
+{
+  "projects": {
+    "default": "kartos"
+  },
+  "targets": {
+    "kartos": {
+      "hosting": {
+        "functions": [
+          "api-kartos"
+        ],
+        "website": [
+          "kartos"
+        ]
+      }
+    }
+  }
+}
