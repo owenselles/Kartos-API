@@ -1,0 +1,6 @@
+{
+    "extends": "mars/node",
+    "rules": {
+        "no-unused-vars": "off"
+    }
+}
